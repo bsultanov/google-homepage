@@ -1,0 +1,95 @@
+#header{
+	text-align: right;
+	padding: 20px 50px 20px 50px;
+}
+#header a {
+    color: #666;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+#content{
+	padding-top: 10px;
+	text-align: center; 
+}
+.google{
+	background: url(1.png) no-repeat;
+	width: 272px;
+	height: 92px;
+	margin: auto;
+	margin-top: 160px;
+}
+.turkmenistan{
+	color: #4285f4;
+    font: 16px/16px roboto-regular, arial, sans-serif;
+    left: 125px;
+    position: relative;
+    top: 76px;
+    white-space: nowrap;
+}
+.search{
+	margin: 30px;
+	width: 484px;
+	height: 38px;
+	border: 1px solid #e4e4e4;
+	font-weight: none;
+	padding-left: 10px;
+	font: 16px Arial;
+}
+.floatright{
+    float: right;
+}
+.floatleft{
+	float: left;
+}
+ #footer{
+    bottom: 0;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    height: 35px;
+    position: absolute;
+    width: 100%;
+}
+ #footer a {
+    color: #666;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+}
+ul{
+	margin: 0px;
+	padding: 5px;
+}
+ul.menu li{
+	display: inline; 
+	padding-left: 20px;
+	color: #777;
+	cursor: auto;
+}
+ul.menu1 li{
+	display: inline; 
+	padding-left: 30px;
+	color: #777;
+	cursor: auto;
+}
+ul.menu2 li{
+	display: inline; 
+	padding-right: 30px;
+	color: #777;
+	cursor: auto;
+}
+.bottom{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    color: #757575;
+    cursor: pointer;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 11px 4px;
+    min-width: 54px;
+    padding: 0px 15px 0 15px;
+    text-align: center;
+    height: 35px;
+}
